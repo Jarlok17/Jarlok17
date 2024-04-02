@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Jaroslaw
-- I’m currently learning Python and C++ in college
+- I’m currently learning and C++ in college
 - I love developing Qt applications
+- I create my own game engine on Vulkan
 - How to reach me:
   - E-mail: abilik48@gmail.com
   - Discord: Jar16#8139
