@@ -6,4 +6,4 @@ My name is Jaroslaw
 - How to reach me:
   - E-mail: abilik48@gmail.com
   - Discord: Jar16#8139
-  - Telegram: [Jaros1754](https://t.me/Jaros1754)
+  - Telegram: [jaros1288](https://t.me/jaros1288)
