@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20I'm%20Jaroslaw%20👋&animation=twinkling&fontAlign=50&textBg=false&reversal=false&section=header&fontSize=65)
 
 ### 👨‍💻 About Me
-- 🎓 C++ student in college  
-- 💡 Interested in Qt, Vulkan, game engines  
+- 🎓 C++ student in NURE (Kharkiv National University of Radio Electronics)
+- 💡 Interested in Qt, Vulkan, game engines, ai
 - 🛠️ Currently working on: **Password Manager (Qt + C++)**, **LovelyEngine (Lua)**  
-- 🌱 Learning: **Modern CMake**, **low-level graphics**  
+- 🌱 Learning: **low-level graphics**, **ai**
 
 <h3 align="center">🚀 Tech Stack</h3>
 <p align="center">
