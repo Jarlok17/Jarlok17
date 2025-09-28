@@ -26,6 +26,3 @@
   <a href="https://discordapp.com/users/Jar16f#8139"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="mailto:abilik48@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=See%20ya&animation=twinkling&fontAlign=50&textBg=false&reversal=false&section=footer&fontSize=65)
